@@ -2,7 +2,7 @@
 Un editor de texto simple pero eficiente, con futuro de agregar nuevas funcionalidades y herramientas 😃
 
 ### Requisitos:
-Tener Python y Tkinter instalador para poder ejecutar este programa.
+Tener Python y Tkinter instalados para poder ejecutar este programa.
 
 Si no los tiene instalado puede dar click aquí: [Descargar e instalar Python](http://www.python.org "Descargar e instalar Python"), (Tkinter viene con el instalador de Python).
 
