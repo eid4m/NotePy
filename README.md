@@ -2,9 +2,9 @@
 Un editor de texto simple pero eficiente, con futuro de agregar nuevas funcionalidades y herramientas 😃
 
 ### Requisitos:
-Tener el interprete de Python instalado para poder ejecutar este programa y la libreria de Tkinter.
+Tener Python y Tkinter instalador para poder ejecutar este programa.
 
-Si no los tiene instalado puede dar click aquí: [Descargar e instalar Python](http://www.python.org "Descargar e instalar Python")
+Si no los tiene instalado puede dar click aquí: [Descargar e instalar Python](http://www.python.org "Descargar e instalar Python"), (Tkinter viene con el instalador de Python).
 
 ### Como ejecutar NotePy
 Lo primero que tiene que hacer es abrir el CMD, luego de ello tiene que dirigirse a la ruta donde descargo el archivo con el siguiente código:
