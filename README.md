@@ -1,4 +1,4 @@
-## Taidy - Editor de texto
+## NotePy - Editor de texto
 Un editor de texto simple pero eficiente, con futuro de agregar nuevas funcionalidades y herramientas 😃
 
 ### Requisitos:
