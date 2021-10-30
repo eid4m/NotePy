@@ -1,0 +1,6 @@
+=================COLABORADORES DEL PROJECTO==================
+
+          NOMBRE          |               GITHUB
+--------------------------|----------------------------------
+- Adam                    | https://github.com/eid4m
+- Eidam                   | https://github.com/eid4m
