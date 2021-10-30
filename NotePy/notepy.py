@@ -54,11 +54,11 @@ def guardar_como():
         mensaje.set(" Guardado cancelado")
         ruta = ""
 
-#Confuguracion de la raiz
+#confuguracion de la raiz
 root = Tk()
 root.title("Notepad")
 
-#Menú superior
+#menú superior
 menubar =  Menu(root)
 filemenu = Menu(menubar, tearoff=0)
 filemenu.add_command(label="Nuevo", command=nuevo)
@@ -74,12 +74,12 @@ texto = Text(root)
 texto.pack(fill="both", expand=1)
 texto.config(bd=0, padx=6, pady=4, font=("Consolas",12))
 
-#Monito Inferior
+#monitor Inferior
 mensaje = StringVar()
 mensaje.set(" Bienvenido a NotPy")
 monitor = Label(root, textvar=mensaje, justify='left')
-monitor.pack(side="left")
+monitor.pack(side="left") 
 
 root.config(menu=menubar)
-#Bucle de inicio
+#bucle de inicio
 mainloop()
