@@ -1,5 +1,5 @@
 ## NotePy - Editor de texto
-Un editor de texto simple pero eficiente, con futuro de agregar nuevas funcionalidades y herramientas 😃
+Un editor de texto simple pero eficiente, con futuro de agregar nuevas funcionalidades y herramientas. 😃
 - Versión 1.2.0 **Pre-release** ¡ya disponible! ✔
 
 ### Requisitos:
