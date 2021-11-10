@@ -76,7 +76,7 @@ texto.config(bd=0, padx=6, pady=4, font=("Consolas",12))
 
 #monitor Inferior
 mensaje = StringVar()
-mensaje.set(" Bienvenido a NotPy")
+mensaje.set(" Bienvenido a NotePy")
 monitor = Label(root, textvar=mensaje, justify='left')
 monitor.pack(side="left") 
 
