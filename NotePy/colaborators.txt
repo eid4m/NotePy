@@ -1,5 +1,0 @@
-=================COLABORADORES DEL PROJECTO==================
-
-          NOMBRE          |               GITHUB
---------------------------|----------------------------------
-- Eidam                   | https://github.com/eid4m
