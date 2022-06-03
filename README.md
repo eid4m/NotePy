@@ -1,6 +1,6 @@
 ## NotePy - Editor de texto
 Un editor de texto simple pero eficiente, con futuro de agregar nuevas funcionalidades y herramientas. 😃
-- Versión 1.2.1 **Pre-release** ¡ya disponible! ✔
+- Versión 1.2.1 **¡ya disponible! ✔**
 
 ### Requisitos:
 Tener Python y Tkinter instalados para poder ejecutar este programa.
